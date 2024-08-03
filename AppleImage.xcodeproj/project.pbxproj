@@ -44,6 +44,7 @@
 		6F1123712C5DA5CE00FD0D27 /* AppleImageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleImageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F1123752C5DA5CE00FD0D27 /* AppleImageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleImageUITests.swift; sourceTree = "<group>"; };
 		6F1123772C5DA5CE00FD0D27 /* AppleImageUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleImageUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6F1123842C5DA94800FD0D27 /* AppleLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleLogo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		6F1123592C5DA5CD00FD0D27 /* AppleImage */ = {
 			isa = PBXGroup;
 			children = (
+				6F1123842C5DA94800FD0D27 /* AppleLogo.swift */,
 				6F11235A2C5DA5CD00FD0D27 /* AppleImageApp.swift */,
 				6F11235C2C5DA5CD00FD0D27 /* ContentView.swift */,
 				6F11235E2C5DA5CE00FD0D27 /* Assets.xcassets */,
